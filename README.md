@@ -131,7 +131,7 @@ Real-time notifications will alert you to successful attendance logging or unrec
 
 ## Support
 
-For support, email sakshojhala07@gmail.com 
+For support, email sakshijhala07@gmail.com 
 
 
 ## future enhancement
